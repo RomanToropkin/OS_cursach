@@ -5,10 +5,12 @@
                    displayName="Исходные файлы"
                    projectFiles="true">
       <itemPath>main.cpp</itemPath>
+      <itemPath>Column/test_column.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="HeaderFiles"
                    displayName="Файлы заголовков"
                    projectFiles="true">
+      <itemPath>Column/test_column.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Файлы ресурсов"
@@ -36,6 +38,10 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="Column/test_column.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column/test_column.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -59,6 +65,10 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Column/test_column.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column/test_column.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
