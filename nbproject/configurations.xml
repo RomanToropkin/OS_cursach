@@ -4,12 +4,14 @@
     <logicalFolder name="SourceFiles"
                    displayName="Исходные файлы"
                    projectFiles="true">
+      <itemPath>Column/ColumnServer.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
       <itemPath>Column/test_column.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="HeaderFiles"
                    displayName="Файлы заголовков"
                    projectFiles="true">
+      <itemPath>Column/ColumnServer.h</itemPath>
       <itemPath>Column/test_column.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -38,6 +40,10 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="Column/ColumnServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column/ColumnServer.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Column/test_column.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Column/test_column.h" ex="false" tool="3" flavor2="0">
@@ -65,6 +71,10 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Column/ColumnServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column/ColumnServer.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Column/test_column.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Column/test_column.h" ex="false" tool="3" flavor2="0">
